@@ -13,11 +13,11 @@ The current implementation will create the letter in .pdf format.
 To use this application, please follow the commands below.
 
 ```
-1. git clone [this repo address]
-2. cd cover-letter-generator
-3. npm install
-4. cd client && npm install
-5. cd ../ && npm start
+git clone [this repo address]
+cd cover-letter-generator
+npm install
+cd client && npm install
+cd ../ && npm start
 ```
 
 ### Version History:
