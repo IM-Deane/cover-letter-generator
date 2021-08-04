@@ -1,0 +1,19 @@
+{
+	"name": "cover-letter-generator",
+	"version": "1.0.0",
+	"description": "",
+	"type": "module",
+	"main": "script.js",
+	"scripts": {
+		"start": "nodemon script.js"
+	},
+	"keywords": [],
+	"author": "Tristan Deane",
+	"license": "ISC",
+	"devDependencies": {
+		"nodemon": "^2.0.12"
+	},
+	"dependencies": {
+		"pdfkit": "^0.12.3"
+	}
+}
